@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("MethodExecutionProfiler")]
+[assembly: AssemblyTitle("CSharp.OOP.ExamAutomation.TaskBuilder")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("MethodExecutionProfiler")]
+[assembly: AssemblyProduct("CSharp.OOP.ExamAutomation.TaskBuilder")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("4238c10e-f536-41bf-b594-531d6e501157")]
+[assembly: Guid("fd34aa59-4172-4690-af79-db90331393f2")]
 
 // Version information for an assembly consists of the following four values:
 //
